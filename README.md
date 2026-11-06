@@ -28,4 +28,6 @@ Testing: 2,495 buildings
 
 Tools
 
+Colab: https://colab.research.google.com/drive/1H7D_a59mU1FDof-4T_muI7abqD2Y6-UM?usp=sharing 
+
 Python, Pandas, Matplotlib, and Scikit-learn.
