@@ -27,7 +27,7 @@ Training: 9,976 buildings
 Testing: 2,495 buildings
 
 Tools
-
+Link to speaker notes: https://docs.google.com/document/d/1z7sxFzQQGUusdqJvZjPMOyQ1eQqkmKT1JaUuffFBedI/edit?usp=sharing
 Colab: https://colab.research.google.com/drive/1H7D_a59mU1FDof-4T_muI7abqD2Y6-UM?usp=sharing 
 
 Intermediate colab notebook: https://colab.research.google.com/drive/1vbd5LwyObzLSK0-wdkAwtvIItAP7Hj91?usp=sharing
