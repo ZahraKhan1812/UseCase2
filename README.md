@@ -30,7 +30,7 @@ Tools
 Link to speaker notes: https://docs.google.com/document/d/1z7sxFzQQGUusdqJvZjPMOyQ1eQqkmKT1JaUuffFBedI/edit?usp=sharing
 Colab: https://colab.research.google.com/drive/1H7D_a59mU1FDof-4T_muI7abqD2Y6-UM?usp=sharing 
 
-Intermediate colab notebook: https://colab.research.google.com/drive/1vbd5LwyObzLSK0-wdkAwtvIItAP7Hj91?usp=sharing
+Advanced colab notebook: https://colab.research.google.com/drive/1SGhjKHQEXamzPBPphBDUrFy9K4rYXUSq?usp=sharing
 
 https://public.tableau.com/app/profile/jonathan.cordero2955/viz/Energy_17939976280370/Story1?publish=yes&showOnboarding=true
 
